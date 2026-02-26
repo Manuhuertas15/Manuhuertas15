@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante👩‍🏫 de Desenvolvimento de Sistemas no SENAI de informática.</p>
+<p align="left">Prazer, meu nome é Manuella, sou estudante👩‍🏫 de Desenvolvimento de Sistemas no SENAI de informática.</p>
 
 ###
 
